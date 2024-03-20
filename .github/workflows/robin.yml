@@ -2,7 +2,7 @@ name: Robin AI Reviewer
 
 on:
   pull_request:
-    branches: [main]
+    branches: [master]
     types:
       - opened
       - reopened
